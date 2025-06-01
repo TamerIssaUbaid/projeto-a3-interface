@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Projeto A3 - GUI com Zenity (corrigido)
-# Támer Issa Ubaid e equipe - 01/06/2025
+# Projeto A3 - GUI com Zenity
 
 while true; do
     opcao=$(zenity --list \
